@@ -1,0 +1,10 @@
+D:\Video Game AI Projects\Ex2 - Reversi\Source\StudentAI\bin\Debug\StudentAI.dll
+D:\Video Game AI Projects\Ex2 - Reversi\Source\StudentAI\bin\Debug\StudentAI.pdb
+D:\Video Game AI Projects\Ex2 - Reversi\Source\StudentAI\bin\Debug\Core.dll
+D:\Video Game AI Projects\Ex2 - Reversi\Source\StudentAI\bin\Debug\ExampleAI.dll
+D:\Video Game AI Projects\Ex2 - Reversi\Source\StudentAI\bin\Debug\Core.pdb
+D:\Video Game AI Projects\Ex2 - Reversi\Source\StudentAI\obj\Debug\StudentAI.csproj.AssemblyReference.cache
+D:\Video Game AI Projects\Ex2 - Reversi\Source\StudentAI\obj\Debug\StudentAI.csproj.CoreCompileInputs.cache
+D:\Video Game AI Projects\Ex2 - Reversi\Source\StudentAI\obj\Debug\StudentAI.csproj.CopyComplete
+D:\Video Game AI Projects\Ex2 - Reversi\Source\StudentAI\obj\Debug\StudentAI.dll
+D:\Video Game AI Projects\Ex2 - Reversi\Source\StudentAI\obj\Debug\StudentAI.pdb

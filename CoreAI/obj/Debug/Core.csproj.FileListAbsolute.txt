@@ -1,0 +1,6 @@
+D:\Video Game AI Projects\Ex2 - Reversi\Source\CoreAI\bin\Debug\Core.dll
+D:\Video Game AI Projects\Ex2 - Reversi\Source\CoreAI\bin\Debug\Core.pdb
+D:\Video Game AI Projects\Ex2 - Reversi\Source\CoreAI\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\Video Game AI Projects\Ex2 - Reversi\Source\CoreAI\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Video Game AI Projects\Ex2 - Reversi\Source\CoreAI\obj\Debug\Core.dll
+D:\Video Game AI Projects\Ex2 - Reversi\Source\CoreAI\obj\Debug\Core.pdb
